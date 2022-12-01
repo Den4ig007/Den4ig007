@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Den4ig007
+- 👋 Hi, I’m Denis
 - 👀 I’m interested in Programming and Web.
 - 🌱 I’m currently learning Java, HTML&CSS, JS, MySQL, C# 
 - 💞️ I’m looking to collaborate on different projects to imrove my skills
